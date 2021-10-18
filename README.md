@@ -4,8 +4,12 @@ torch训练的初始权重（设置batch_size=10)地址：链接：https://pan.b
 
 forward_torch.npy的链接：链接：https://pan.baidu.com/s/1MP7hBZVP7Ch4u9BJQBF-bQ 提取码：j8jk
 
-数据集：
+在生成forward_paddle.npy时，缺少参数
+
+# 数据集：
 
   VOC数据集
   
-  Real_Old数据集：链接：https://pan.baidu.com/s/1BE6YL5KIzysDoIerwh-bmA  提取码：u2yt
+  Real_Old图片来自于网站https://www.hpcbristol.net/photographers
+  
+  收集后的数据集链接：https://pan.baidu.com/s/1BE6YL5KIzysDoIerwh-bmA  提取码：u2yt
